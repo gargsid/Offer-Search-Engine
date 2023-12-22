@@ -10,9 +10,10 @@ For the brands table, we have details of different product categories sold by di
 
 For the category table, for each product category, we have a higher level category of the product. **Since the higher level categories are abstract, we do not consider the table in this project**. 
 
-**Problem Statement**: Users can make natural language query about product category, brand or retailer to get offer on those products. 
+### Problem Statement
+Users can make natural language query about product category, brand or retailer to get offer on those products. 
 
-**Solution Overview**
+### Solution Overview 
 
 We have used entity linking, LLM powered semantic search and vector stores to create an end-to-end pipeline for supporting natural langauge queries.
 
