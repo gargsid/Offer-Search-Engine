@@ -5,7 +5,9 @@ In this project, we create an offer retrieval engine, where we are given a table
 
 The user can make a natural language query to get offers on product categories, brands, or retailers. We have used entity linking, LLM powered semantic search and vector stores to create an end-to-end pipeline for supporting natural langauge queries. 
 
-For a detailed and thorough walkthrough please check out this [colab notebook](https://colab.research.google.com/drive/1mPlrVPMt0RpHWzDGojipjX4D5ov0Y9rN?usp=sharing) 
+For a detailed and thorough walkthrough please check out this [colab notebook](https://colab.research.google.com/drive/1mPlrVPMt0RpHWzDGojipjX4D5ov0Y9rN?usp=sharing).
+
+For the brief write up on the solutions, assumptions and tradeoffs, please checkout [this writeup](https://github.com/gargsid/Offer-Search-Engine/blob/main/writeup.md)
 
 ## Instructions
 
