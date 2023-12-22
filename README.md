@@ -1,2 +1,2 @@
-# fetch_offer_retrieval_take_home
+# Offer Search Engine
 Take home assignement for Data Science Apprenticeship role
