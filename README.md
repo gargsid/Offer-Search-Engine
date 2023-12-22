@@ -35,5 +35,5 @@ streamlit run app.py
 You can make your queries. An example is shown below. 
 
 <p float="left">
-  <img src="https://github.com/gargsid/Offer-Search-Engine/blob/main/assets/app_screenshot.png" width="1500" height="500" />
+  <img src="https://github.com/gargsid/Offer-Search-Engine/blob/main/assets/app_screenshot.png" width="2000" height="300" />
 </p> 
