@@ -34,3 +34,6 @@ streamlit run app.py
 
 You can make your queries. An example is shown below. 
 
+<p float="left">
+  <img src="https://github.com/gargsid/Offer-Search-Engine/blob/main/assets/app_screenshot.png" width="500" height="600" />
+</p> 
